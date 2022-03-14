@@ -13,4 +13,4 @@ The following tools were used:
 * Git
 
 ## Working Page
-https://tomaszolejniczak.github.io/GitHubRepoName/public/index.html
+https://tomaszolejniczak.github.io/KanbanDragnDrop/index.html
